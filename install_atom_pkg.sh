@@ -16,6 +16,8 @@ declare -a packages=(
 "minimap-cursorline"
 "pigments"
 "linter-flake8"
+"go-plus"
+"tile-bar-replacer"
 )
 
 for package in "${packages[@]}"
